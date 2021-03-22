@@ -1,0 +1,37 @@
+{
+  "users": [],
+  "wallChecks": {
+    "lastWallChecked": 1616442197296,
+    "wallMinuteUnchecked": ""
+  },
+  "bufferChecks": {
+    "lastBufferChecked": 1616442197296,
+    "bufferMinuteUnchecked": ""
+  },
+  "prevFtop": [],
+  "channels": {
+    "weewoo": "",
+    "wallchecks": "",
+    "bufferchecks": "",
+    "serverchat": "",
+    "ftop": "",
+    "flist": "",
+    "verify": "",
+    "bank": ""
+  },
+  "times": {
+    "auto_ftop": 30,
+    "auto_flist": 10,
+    "auto_wallcheck": 3,
+    "auto_buffercheck": 6,
+    "auto_joincommand": 1,
+    "latency": 300
+  },
+  "commands": {
+    "joinCommand": "/joinqueue factions"
+  },
+  "trackMoney": true,
+  "shield": true,
+  "totalUsers": 0,
+  "temporaryUser": []
+}
